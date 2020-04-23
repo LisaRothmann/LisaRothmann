@@ -9,12 +9,11 @@ navbar:
       icon: fa-search
       href: research.html
     - text: "Blog"
-      icon: documents-outline
+      icon: fa-scroll
       href: Blog.html
     - text: "Teaching"
-      icon: school-outline
+      icon: fa-graduation-cap
       href: Teaching.html
-      
 output_dir: "."
 output: 
  html_document:

@@ -1,5 +1,10 @@
 ---
 title: "About Me"
+output: 
+ html_document:
+    theme: paper
+    includes:
+      after_body: footer.html
 ---
 
 <img src="images/LAROTHMANN.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left" >
