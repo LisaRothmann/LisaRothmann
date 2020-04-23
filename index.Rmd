@@ -12,3 +12,7 @@ I am a contracted academic staff member, teaching an Introductory Plant Patholog
 I have taught myself how to use R and R-studio, under the guidance of my co-supervisor and lab mates at the UFV. I am encouraging my post-graduates to do the same. I provide them with guidance but promote self-learning as this is a heuristic process.   
 
 Outside of my academic work, I am also the Blog and Social Media Editor for [Open Plant Pathology](www.plantpathology.org).  I am passionate about Open Science and Reproducible Research.  
+
+You can find my full CV [here](files/LisaAnnRothmann_CV.pdf). 
+
+
