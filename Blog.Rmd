@@ -8,7 +8,25 @@ output:
 ---
 ----
 
-## First Post Title 
+## "Tussen Takk" - _a thousand thank you's_ 
+
+### 24-04-2020
+
+#### Lisa A. Rothmann 
+
+Although, this website is the first and most likely not the last, I owe a huge thank you to many for teaching me, remotely. I wanted to get something "on paper"  for my 30th birthday, which was yesterday, and thanks to the kind nature of the `rstats` community I could start.   
+
+My first blog post is an acknowledgement to those who share and contribute to teaching materials.   
+
+These are the resources which I used to get this first platform up and running, in no particular order: 
+* [Lowndes,J. 2016. Making free websites with RStudio’s R Markdown](https://jules32.github.io/rmarkdown-website-tutorial/)
+* [Zabor, E. 2018. Creating website in R](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
+* [Xie, Y., Allaire, J.J. & Grolemund, G. 2020. R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
+* [Holtz, Y. 2018. Pimp my rmd.](https://holtzy.github.io/Pimp-my-rmd/#text_formating) _specifically for the tips on the  footer_ 
+
+I hope that I can continue to grow and spread the rstats community encouragement.   
+Until next time,
+Blessings. 
 
 ----
 
