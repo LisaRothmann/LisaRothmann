@@ -1,6 +1,16 @@
 name: "Lisa A. Rothmann"
 navbar:
-  title: "Lisa A. Rothmann"
-left:
-  - text: "Home"
-href: index.html
+  title: "Home"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Blog"
+      href: Blog.html
+    - text: "Teaching"
+      href: Teaching.html
+output: 
+  html_document:
+    theme: paper
+    css: 'styles.css'
