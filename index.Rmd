@@ -7,7 +7,7 @@ output:
       after_body: footer.html
 ---
 
-<img src="./images/LAROTHMANN.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left" >
+<img src="images/LAROTHMANN.JPG" style="width:25%; border:10px solid; margin-right: 20px" align="left" >
 
 
 I am currently completing my PhD, at the [University of the Free State (UFS)](https://www.ufs.ac.za/homepage) in South Africa. I am focusing on soybean and sunflower stem and head rot, caused by Sclerotinia sclerotiorum. I am under the supervision of Professor Neal McLaren and Professor [Emerson Del Ponte](https://github.com/emdelponte), [Universidade Federal de Viçosa (UFV)](https://www.ufv.br/international-students/), in Brazil. I enjoy doing the data science components of my research and getting out into the fresh air to conduct our field trials.   
