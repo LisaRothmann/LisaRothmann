@@ -1,0 +1,8 @@
+name: "Lisa A. Rothmann"
+navbar:
+  title: "Lisa A. Rothmann"
+left:
+  - text: "Home"
+href: index.html
+- text: "About"
+href: about.html
