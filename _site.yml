@@ -12,4 +12,4 @@ navbar:
       href: Teaching.html
 output_dir: "."
 output: 
-    theme: hugo-lithium
+    theme: paper
