@@ -12,7 +12,7 @@ navbar:
       icon: fa-graduation-cap
       href: Teaching.html
     - text: "Blog"
-      icon: fa-door-open
+      icon: fa-align-justify
       href: Blog.html
 output_dir: "."
 output: 
