@@ -8,12 +8,12 @@ navbar:
     - text: "Research"
       icon: fa-search
       href: research.html
-    - text: "Blog"
-      icon: fa-scroll
-      href: Blog.html
     - text: "Teaching"
       icon: fa-graduation-cap
       href: Teaching.html
+    - text: "Blog"
+      icon: fa-door-open
+      href: Blog.html
 output_dir: "."
 output: 
  html_document:
