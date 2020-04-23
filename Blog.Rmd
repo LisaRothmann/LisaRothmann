@@ -1,7 +1,6 @@
 ---
 title: "Blog"
 ---
-
 ----
 
 ## First Post Title 

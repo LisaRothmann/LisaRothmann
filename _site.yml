@@ -3,13 +3,18 @@ navbar:
   title: "Home"
   left:
     - text: "About Me"
+      icon: fa-home
       href: index.html
     - text: "Research"
+      icon: fa-search
       href: research.html
     - text: "Blog"
+      icon: fa-book-open
       href: Blog.html
     - text: "Teaching"
+      icon: fa-chalkboard
       href: Teaching.html
+      
 output_dir: "."
 output: 
  html_document:
