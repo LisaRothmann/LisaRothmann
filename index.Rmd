@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "About Me"
 ---
@@ -13,22 +12,3 @@ I am a contracted academic staff member, teaching an Introductory Plant Patholog
 I have taught myself how to use R and R-studio, under the guidance of my co-supervisor and lab mates at the UFV. I am encouraging my post-graduates to do the same. I provide them with guidance but promote self-learning as this is a heuristic process.   
 
 Outside of my academic work, I am also the Blog and Social Media Editor for [Open Plant Pathology](www.plantpathology.org).  I am passionate about Open Science and Reproducible Research.  
-
-=======
----
-title: "About Me"
----
-
-<img src="images/LAROTHMANN.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left" >
-
-
-I am currently completing my PhD, at the [University of the Free State (UFS)](https://www.ufs.ac.za/homepage) in South Africa. I am focusing on soybean and sunflower stem and head rot, caused by Sclerotinia sclerotiorum. I am under the supervision of Professor Neal McLaren and Professor](http://www.delponte.netlify.com), [Universidade Federal de Viçosa (UFV)](https://www.ufv.br/international-students/), in Brazil. I enjoy doing the data science components of my research and getting out into the fresh air to conduct our field trials.   
-
-I am a contracted academic staff member, teaching an Introductory Plant Pathology course as well as an honours course in an Introduction to Plant Disease Epidemiology. I currently supervise two postgraduate students, at MSc and PhD level. I am the Principle Investigator in my division for Plant Disease Epidemiology. Our research group focus on Sclerotinia diseases of oilseed crops and sorghum foliar and grain diseases.  
-
-I have taught myself how to use R and R-studio, under the guidance of my co-supervisor and lab mates at the UFV. I am encouraging my post-graduates to do the same. I provide them with guidance but promote self-learning as this is a heuristic process.   
-
-Outside of my academic work, I am also the Blog and Social Media Editor for [Open Plant Pathology](www.plantpathology.org).  I am passionate about Open Science and Reproducible Research.  
-
->>>>>>> e71079fa7d4f63d6c4ed2cb9388ed2b8ba3065c7
-You can find my full CV [here](files/LisaAnnRothmann_CV.pdf). 
