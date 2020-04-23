@@ -14,3 +14,5 @@ output_dir: "."
 output: 
  html_document:
     theme: paper
+    includes:
+      after_body: footer.html
