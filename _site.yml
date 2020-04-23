@@ -12,4 +12,5 @@ navbar:
       href: Teaching.html
 output_dir: "."
 output: 
+ html_document:
     theme: paper
