@@ -12,5 +12,5 @@ navbar:
       href: Teaching.html
 output_dir: "."
 output: 
-  html_document:
+  prettydoc::html_pretty:
     theme: cayman
