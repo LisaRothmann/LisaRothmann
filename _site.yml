@@ -9,10 +9,10 @@ navbar:
       icon: fa-search
       href: research.html
     - text: "Blog"
-      icon: <ion-icon name="documents-outline"></ion-icon>
+      icon: documents-outline
       href: Blog.html
     - text: "Teaching"
-      icon: <ion-icon name="school-outline"></ion-icon>
+      icon: school-outline
       href: Teaching.html
       
 output_dir: "."
