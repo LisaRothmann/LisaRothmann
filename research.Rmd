@@ -10,21 +10,18 @@ output:
 
 ## Publications 
 
-----
-
 ### Peer Reviewed
-----
 
 #### 2020	
 Toth, B., Boka, K., Rothmann, L.A., Moloi, M.J. 2020. The effect of four industrial by-products on the photo-synthetic pigments, dry weight and ultrastructure of _Zea mays_ L. Biology Bulletin.   
 
 #### 2019	
-Boshoff, W.H., Prins, R., de Klerk, C., Krattinger, S.G., Bender, C.M., Maree, G.J., Rothmann, L. and Pretorius, Z.A., 2019. Point Inoculation Method for Measuring Adult Plant Response of Wheat to Stripe Rust Infection. Plant disease, pp.PDIS-08.  https://doi.org/10.1094/PDIS-08-18-1312-RE  
+[Boshoff, W.H., Prins, R., de Klerk, C., Krattinger, S.G., Bender, C.M., Maree, G.J., Rothmann, L. and Pretorius, Z.A., 2019. Point Inoculation Method for Measuring Adult Plant Response of Wheat to Stripe Rust Infection. Plant disease, pp.PDIS-08.](https://doi.org/10.1094/PDIS-08-18-1312-RE ) 
 
-Yekelo, N., Rothmann, L., Bender, C.M., Pretorius, Z.A. and Boshoff, W.H.P., 2019. Response of an International Triticale Collection to _Puccinia triticina_ and _Puccinia recondita sensu stricto_ and Assessment of Temperature Sensitivity in Leaf Rust Isolates. Cereal Research Communications, 47(3), pp.496-505.  DOI: 10.1556/0806.47.2019.23  
+[Yekelo, N., Rothmann, L., Bender, C.M., Pretorius, Z.A. and Boshoff, W.H.P., 2019. Response of an International Triticale Collection to _Puccinia triticina_ and _Puccinia recondita sensu stricto_ and Assessment of Temperature Sensitivity in Leaf Rust Isolates. Cereal Research Communications, 47(3), pp.496-505. ](https://link.springer.com/content/pdf/10.1556/0806.47.2019.23.pdf) 
 
 #### 2018
-Rothmann, L.A. & McLaren, N.W. 2018. _Sclerotinia sclerotiorum_ disease prediction: a review and potential applications in South Africa. South African Journal of Science.http://dx.doi.org/10.17159/sajs.2018/20170155  
+[Rothmann, L.A. & McLaren, N.W. 2018. _Sclerotinia sclerotiorum_ disease prediction: a review and potential applications in South Africa. South African Journal of Science.](http://dx.doi.org/10.17159/sajs.2018/20170155)  
 
 -----
 
@@ -32,9 +29,9 @@ Rothmann, L.A. & McLaren, N.W. 2018. _Sclerotinia sclerotiorum_ disease predicti
 
 #### 2019 
 
-Rothmann, L.A. Meiring, MC. & McLaren, N.W. 2019. The development of novel risk reduction strategies for Sclerotinia head and stem rot of sunflower and soya beans. OilSeed Focus Magazine, Vol 5 No 2. http://sclerotinia.co.za/article/development-of-novel-risk-reduction-strategies-sclerotinia-head-and-stem-rot
+[Rothmann, L.A. Meiring, MC. & McLaren, N.W. 2019. The development of novel risk reduction strategies for Sclerotinia head and stem rot of sunflower and soya beans. OilSeed Focus Magazine, Vol 5 No 2.](http://sclerotinia.co.za/article/development-of-novel-risk-reduction-strategies-sclerotinia-head-and-stem-rot)
 
-McLaren, L.A. & Rothmann, L.A. 2019 Management of Sorghum Diseases. SA Grain Magazine. https://www.grainsa.co.za/management-of-sorghum-diseases
+[McLaren, L.A. & Rothmann, L.A. 2019 Management of Sorghum Diseases. SA Grain Magazine.](https://www.grainsa.co.za/management-of-sorghum-diseases)
 
-Bester, M. & Rothmann, L.A. 2019. Management of Sclerotinia head and stem rot.  https://www.grainsa.co.za/management-of-sclerotinia-head-and-stem-rot
+[Bester, M. & Rothmann, L.A. 2019. Management of Sclerotinia head and stem rot.](https://www.grainsa.co.za/management-of-sclerotinia-head-and-stem-rot)
 
