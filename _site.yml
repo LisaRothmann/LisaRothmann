@@ -14,3 +14,5 @@ output_dir: "."
 output: 
  html_document:
     theme: paper
+    toc: true
+    toc_depth: 2
