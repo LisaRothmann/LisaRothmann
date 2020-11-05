@@ -4,7 +4,26 @@ title: "Blog"
 
 ----
 
-## First Post Title 
+## “Tussen Takk” - a thousand thank you’s  
+24-04-2020  
+Lisa A. Rothmann  
+
+Although, this website is the first and most likely not the last, I owe a huge thank you to many for teaching me, remotely. I wanted to get something “on paper” for my 30th birthday, which was yesterday, and thanks to the kind nature of the rstats community I could start.  
+
+My first blog post is an acknowledgement to those who share and contribute to teaching materials.  
+
+These are the resources which I used to get this first platform up and running, in order of finding them on my learning journey:  
+1. Pritchard, A. 2017. Markdown Cheatsheet.  
+2. Bryan, J. & Hester, T. 2020. Using Git and GitHub with R, Rstudio, and R Markdown.  
+3. Lowndes, J. 2016. Making free websites with RStudio’s R Markdown  
+4. Zabor, E. 2018. Creating website in R.  
+5. Xie, Y., Allaire, J.J. & Grolemund, G. 2020. R Markdown: The Definitive Guide.  
+6. Holtz, Y. 2018. Pimp my rmd. specifically for the tips on the footer.  
+
+I hope that I can continue to grow and spread the rstats community encouragement.  
+
+Until next time,  
+Blessings.
 
 ----
 
