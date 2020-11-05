@@ -1,5 +1,9 @@
 ---
 title: "Blog"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
 ---
 
 ----
@@ -13,12 +17,12 @@ Although, this website is the first and most likely not the last, I owe a huge t
 My first blog post is an acknowledgement to those who share and contribute to teaching materials.  
 
 These are the resources which I used to get this first platform up and running, in order of finding them on my learning journey:  
-1. Pritchard, A. 2017. Markdown Cheatsheet.  
-2. Bryan, J. & Hester, T. 2020. Using Git and GitHub with R, Rstudio, and R Markdown.  
-3. Lowndes, J. 2016. Making free websites with RStudio’s R Markdown  
-4. Zabor, E. 2018. Creating website in R.  
-5. Xie, Y., Allaire, J.J. & Grolemund, G. 2020. R Markdown: The Definitive Guide.  
-6. Holtz, Y. 2018. Pimp my rmd. specifically for the tips on the footer.  
+1. [Pritchard, A. 2017. Markdown Cheatsheet.](https://github.com/wptrainingteam/markdown-cheatsheet)  
+2. [Bryan, J. & Hester, T. 2020. Using Git and GitHub with R, Rstudio, and R Markdown.](https://happygitwithr.com/)  
+3. [Lowndes, J. 2016. Making free websites with RStudio’s R Markdown.](https://jules32.github.io/rmarkdown-website-tutorial/)  
+4. [Zabor, E. 2018. Creating website in R.](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)  
+5. [Xie, Y., Allaire, J.J. & Grolemund, G. 2020. R Markdown: The Definitive Guide.](https://bookdown.org/yihui/rmarkdown/)  
+6. [Holtz, Y. 2018. Pimp my rmd. specifically for the tips on the footer.](https://holtzy.github.io/Pimp-my-rmd/) 
 
 I hope that I can continue to grow and spread the rstats community encouragement.  
 
