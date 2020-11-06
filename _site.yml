@@ -20,3 +20,5 @@ output:
     theme: paper
     includes:
       after_body: footer.html
+      toc: true
+      toc_depth: 2

@@ -7,6 +7,7 @@ output:
       after_body: footer.html
 ---
 ----
+
 ## Communicating and contributing to science.
 
 Prepared by Lisa Rothmann for PPLG2624 presented at the University of the Free State, Plant Science: Plant Pathology, prepared on 2020-10-02. Published on this website on 2020-11-05. 
