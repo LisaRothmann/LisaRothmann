@@ -10,7 +10,7 @@ output:
 <img src="images/LAROTHMANN.JPG" style="width:20%; border:5px solid; margin-right: 20px" align="left">
 
 
-I am completed my PhD, at the [University of the Free State (UFS)](https://www.ufs.ac.za/homepage) in South Africa. I am focused my research on soybean and sunflower stem and head rot, caused by _Sclerotinia sclerotiorum_. I was under the supervision of Professor Neal McLaren (UFS) and Professor [Emerson Del Ponte](https://github.com/emdelponte), [Universidade Federal de Viçosa (UFV)](https://www.ufv.br/international-students/), in Brazil. 
+I have completed my PhD in Plant Pathology, at the [University of the Free State (UFS)](https://www.ufs.ac.za/homepage) in South Africa. I am focused my research on soybean and sunflower stem and head rot, caused by _Sclerotinia sclerotiorum_. I was under the supervision of Professor Neal McLaren (UFS) and Professor [Emerson Del Ponte](https://github.com/emdelponte), [Universidade Federal de Viçosa (UFV)](https://www.ufv.br/international-students/), in Brazil. 
 
 I am currently a contracted academic staff member, teaching an Introductory Plant Pathology course as well as an honours course in an Introduction to Plant Disease Epidemiology. I currently supervise three postgraduate students, at MSc and PhD level. I am the Principle Investigator in my division for Plant Disease Epidemiology. Our research group focus on Sclerotinia diseases of oilseed and -protein crops and sorghum foliar and grain diseases.  I enjoy doing the data science components of my research and getting out into the fresh air to conduct our field trials.   
 
