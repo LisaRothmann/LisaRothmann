@@ -11,7 +11,7 @@ navbar:
     - text: "Teaching"
       icon: fa-graduation-cap
       href: Teaching.html
-    - text: "Blog"
+    - text: "Filing cabinet"
       icon: fa-align-justify
       href: Blog.html
 output_dir: "."

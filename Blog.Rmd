@@ -1,11 +1,18 @@
 ---
-title: "Blog"
+title: "Filing cabinet"
 output: 
  html_document:
     theme: paper
     includes:
       after_body: footer.html
 ---
+----
+## what can you expect? 
+
+### 02-07-2021
+
+In this filing cabinet I am going to curate my ramblings and internet discoveries, to pay homage to all those who contribute to my learning and share with others the wonders of science.
+
 ----
 
 ## "Tussen Takk" - _a thousand thank you's_ 
@@ -16,7 +23,7 @@ output:
 
 Although, this website is the first and most likely not the last, I owe a huge thank you to many for teaching me, remotely. I wanted to get something "on paper"  for my 30th birthday, which was yesterday, and thanks to the kind nature of the `rstats` community I could start.   
 
-My first blog post is an acknowledgement to those who share and contribute to teaching materials.   
+My first blog post is an acknowledgment to those who share and contribute to teaching materials.   
 
 These are the resources which I used to get this first platform up and running, in order of finding them on my learning journey:   
 1. [Pritchard, A. 2017. Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)     

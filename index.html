@@ -13,17 +13,25 @@
 
 <title>About Me</title>
 
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -37,11 +45,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -54,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -89,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -109,40 +83,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -170,7 +117,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -182,7 +129,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -193,10 +140,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -208,7 +168,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -286,28 +245,28 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     About Me
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-search"></span>
+    <span class="fas fa-search"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="Teaching.html">
-    <span class="fa fa-graduation-cap"></span>
+    <span class="fas fa-graduation-cap"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="Blog.html">
-    <span class="fa fa-align-justify"></span>
+    <span class="fas fa-align-justify"></span>
      
     Blog
   </a>
@@ -320,7 +279,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -330,10 +289,10 @@ $(document).ready(function () {
 
 
 <p><img src="images/LAROTHMANN.JPG" style="width:20%; border:5px solid; margin-right: 20px" align="left"></p>
-<p>I have completed my PhD in Plant Pathology, at the <a href="https://www.ufs.ac.za/homepage">University of the Free State (UFS)</a> in South Africa. My research was focused on soybean and sunflower stem and head rot, caused by <em>Sclerotinia sclerotiorum</em>, distribution and potential climatic predictors. I was under the supervision of Professor Neal McLaren (UFS) and Professor <a href="https://github.com/emdelponte">Emerson Del Ponte</a>, <a href="https://www.ufv.br/international-students/">Universidade Federal de Viçosa (UFV)</a>, in Brazil.</p>
-<p>I am currently a contracted academic staff member, teaching an Introductory Plant Pathology course as well as an honours course in an Introduction to Plant Disease Epidemiology. I currently supervise three postgraduate students, at MSc and PhD level. I am the Principle Investigator in my division for Plant Disease Epidemiology. Our research group focus on Sclerotinia diseases of oilseed and -protein crops and sorghum foliar and grain diseases. I enjoy doing the data science components of my research and getting out into the fresh air to conduct our field trials.</p>
-<p>I have taught myself how to use R and R-studio, under the guidance of my co-supervisor and lab mates at the UFV. I am encouraging the post-graduates under my supervisions to do the same. I provide them with guidance but promote self-learning as this is a heuristic process.</p>
-<p>Outside of my academic work, I am also the Blog and Social Media Editor for <a href="https://openplantpathology.org/">Open Plant Pathology</a>. I am passionate about Open Science and Reproducible Research. In 2021, I will start as an Assistant Editor at <a href="https://apsjournals.apsnet.org/journal/phyto"><em>Phytopathology</em></a>. I am looking forward to this opportunity to participate actively in my research discipline.</p>
+<p>I completed my PhD in Plant Pathology, at the <a href="https://www.ufs.ac.za/homepage">University of the Free State (UFS)</a>, South Africa. My research focused on soybean and sunflower stem and head rot, caused by <em>Sclerotinia sclerotiorum</em>, distribution and potential climatic predictors. I was under the supervision of Professor Neal McLaren (UFS) and Professor <a href="https://github.com/emdelponte">Emerson Del Ponte</a>, <a href="https://www.ufv.br/international-students/">Universidade Federal de Viçosa (UFV)</a>, in Brazil.</p>
+<p>I am currently a Lecturer, teaching an Introductory Plant Pathology course as well as an honours course, an Introduction to Plant Disease Epidemiology at the UFS. I am the Principle Investigator in my division for Plant Disease Epidemiology, our group currently consists of six postgraduate students, 2 Hons, 2 MSc and 2 PhD students. Our research group focuses on Sclerotinia diseases of oilseed and -protein crops, sorghum foliar and grain diseases, as well as fungicide resistance. I enjoy doing the data science components of my research and getting out into the fresh air to conduct our field trials.</p>
+<p>I have taught myself how to use R and R-studio, under the guidance of my co-supervisor and lab mates at the UFV. I am encouraging the post-graduates in our group to do the same. I provide them with guidance but promote self-learning as this is a heuristic process.</p>
+<p>Outside of my academic work, I am also the Blog and Social Media Editor for <a href="https://openplantpathology.org/">Open Plant Pathology</a>. I am passionate about Open Science and Reproducible Research. This year, I also started as an Assistant Editor at <a href="https://apsjournals.apsnet.org/journal/phyto"><em>Phytopathology</em></a>.</p>
 <p>You can find my full CV <a href="files/LisaAnnRothmann_CV.pdf">here</a>.</p>
 
 &nbsp;
@@ -378,7 +337,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
