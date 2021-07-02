@@ -6,10 +6,12 @@ output:
     includes:
       after_body: footer.html
 ---
-----
+
 ## what can you expect? 
 
-### 02-07-2021
+#### 02-07-2021
+
+##### Lisa A. Rothmann
 
 In this filing cabinet I am going to curate my ramblings and internet discoveries, to pay homage to all those who contribute to my learning and share with others the wonders of science.
 
@@ -17,9 +19,9 @@ In this filing cabinet I am going to curate my ramblings and internet discoverie
 
 ## "Tussen Takk" - _a thousand thank you's_ 
 
-### 24-04-2020
+#### 24-04-2020
 
-#### Lisa A. Rothmann 
+##### Lisa A. Rothmann 
 
 Although, this website is the first and most likely not the last, I owe a huge thank you to many for teaching me, remotely. I wanted to get something "on paper"  for my 30th birthday, which was yesterday, and thanks to the kind nature of the `rstats` community I could start.   
 
