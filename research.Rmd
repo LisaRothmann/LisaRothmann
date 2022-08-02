@@ -12,6 +12,25 @@ output:
 
 ### Peer Reviewed
 
+### 2022
+
+[Rothmann, L.A. and McLaren, N.W. 2022. Prevalence of Sclerotinia sclerotiorum sclerotia recovered
+from soybean and sunflower. Journal of Phytopathology.](DOI: 10.1111/jph.13124)
+
+Boshoff, W.H., Visser, B., Bender, C.M., Wood, A.R., Rothmann, L., Wilson, K., Hamilton-Attwell, V.L.
+and Pretorius, Z.A. 2022. Fig rust: an unexplored disease in South Africa. Phytopathologia Mediterranea. In
+Press
+
+Alves, K. d. S., Rothmann, L.A., Del Ponte, E. M. 2022. Linking Climate Variables to Large-Scale
+Spatial Pattern and Risk of Citrus Huanglongbing: A Hierarchical Bayesian Modeling Approach.
+Phytopathology https://doi.org/10.1094/PHYTO-05-21-0219-FI
+
+
+### 2021
+[Vermeulen, M., Rothmann, L.A., Swart, W.J. and Gryzenhout, M., 2021. Fusarium casha sp. nov. and
+F. curculicola sp. nov. in the Fusarium fujikuroi Species Complex Isolated from Amaranthus cruentus and Three Weevil Species in South Africa. Diversity, 13(10), p.472](https://www.mdpi.com/1424-2818/13/10/472) 
+
+
 #### 2020	
 Toth, B., Boka, K., Rothmann, L.A., Moloi, M.J. 2020. The effect of four industrial by-products on the photo-synthetic pigments, dry weight and ultrastructure of _Zea mays_ L. Biology Bulletin.   
 
