@@ -5,8 +5,8 @@ navbar:
     - text: "About Me"
       icon: fa-home
       href: index.html
-     - text: "Storyboard"
-      icon: fa-light fa-mug-tea-saucer
+    - text: "Storyboard"
+      icon: fa-map-o
       href: storyboard.html
     - text: "Research"
       icon: fa-search
