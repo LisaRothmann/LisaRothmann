@@ -5,6 +5,9 @@ navbar:
     - text: "About Me"
       icon: fa-home
       href: index.html
+     - text: "Storyboard"
+      icon: fa-light fa-mug-tea-saucer
+      href: storyboard.html
     - text: "Research"
       icon: fa-search
       href: research.html
